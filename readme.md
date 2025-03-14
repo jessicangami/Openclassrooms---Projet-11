@@ -19,6 +19,6 @@ Créez votre portfolio de professionnel de la data
  - Créer  un dashboard "veille métier"
  - Créer un dashboard "portfolio"
  - Créer un guide de création de graphiques avec Power BI
- - Réaliser une vidéo sur la création de graphiques avec Power BI : https://github.com/jessicangami
- - Créer un GitHub
+ - Réaliser une vidéo sur la création de graphiques avec Power BI : https://www.loom.com/share/31bffcc285ba4f789a41d0c47ca0a979
+ - Créer un GitHub : https://github.com/jessicangami
 
